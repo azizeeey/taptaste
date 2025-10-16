@@ -1,3 +1,2 @@
 # taptaste
-Repositori untuk proyek Taptaste.
-Ini adalah deskripsi tambahan dari repositori lokal saya.
+Aplikasi website scan menu & pay dengan integrasi Reddit untuk restoran menggunakan Laravel 12, Filament, Livewire, Tailwind
